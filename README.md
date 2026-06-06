@@ -7,8 +7,18 @@ Drag the CSV files into Claude, and then start with a sell prompt like:
 
 ```
 These are my local market data files. I have 20 x avg weight 500kg steers to sell. Assuming my cost of carry is $200 /day, what would be the most profitable type of cattle to buy in this market?
+```
 
 Then you might want to start exploring buy scenarios
 
 ```
-I have a separate opportunity to buy 15 PTIC heifers that will calve in spring- are they over or under valued at the moment?
+I have a separate opportunity to buy 20 PTIC heifers that will calve in spring- are they over or under valued at the moment?
+```
+
+Make sure you tweak things like:
+- average daily gain for your operation
+- what weight you can comfortably take animals up to
+- your cost of carry, and how you attribute that (per head, per day, etc) as well as carrying capacity
+
+h3. Profit and Loss
+This has a somewhat unusual P&L format, as I needed to evaluate both the "sell buy" methodology profit (where I take the cost of carry and pay that to myself) and actual cash P&L (which is what my accountant and wife are interested in)
